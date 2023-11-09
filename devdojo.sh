@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hell GISC 605"
+echo "Gello please" $1
